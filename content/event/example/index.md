@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: "Event-Product Pair Identification: A New Task to Consumption Intention Analysis in Texts"
 
 event: Wowchemy Conference
 event_url: https://example.org
